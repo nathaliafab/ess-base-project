@@ -7,6 +7,7 @@ MAP = {
     'Next.js 🇳': 'frontend-nextjs',
     'NodeJS 🚀': 'backend-nodejs',
     'FastAPI ⚡️': 'backend-fastAPI',
+    'Golang 🦫': 'backend-golang-fiber-ess',
     'HTTPS 🔒': 'https://github.com/',
     'SSH 🔑': 'git@github.com:'
 }
@@ -20,7 +21,7 @@ FRAMEWORKS = [
     inquirer.List(
         'backend',
         message='Escolha um Framework de Backend para utilizar no seu projeto:',
-        choices=['NodeJS 🚀','FastAPI ⚡️'],
+        choices=['NodeJS 🚀','FastAPI ⚡️', 'Golang 🦫'],
     ),
     inquirer.List(
         'key',
