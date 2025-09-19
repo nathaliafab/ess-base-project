@@ -29,3 +29,4 @@ Cenário 5: Teste 5
 Cenário 6: Teste 6
   Dado que eu tenho um passo final
   Quando eu executo o passo final
+  Então eu vejo o resultado final
