@@ -24,4 +24,4 @@ Cenário 4: Teste 4
 Cenário 5: Teste 5
   Dado que eu tenho um passo diferente
   Quando eu executo esse passo diferente
-  Então eu vejo um resultado diferente
+  Então eu vejo um resultado diferente do diferente
