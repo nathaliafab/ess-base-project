@@ -25,3 +25,7 @@ Cenário 5: Teste 5
   Dado que eu tenho um passo diferente
   Quando eu executo esse passo diferente
   Então eu vejo um resultado diferente do diferente
+
+Cenário 6: Teste 6
+  Dado que eu tenho um passo final
+  Quando eu executo o passo final
