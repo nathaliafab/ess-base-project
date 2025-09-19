@@ -9,3 +9,8 @@ Cenário 2: Teste 2
   Dado que eu tenho outro passo
   Quando eu executo esse passo
   Então eu vejo outro resultado
+
+Cenário 3: Teste 3
+  Dado que eu tenho mais um passo
+  Quando eu executo mais esse passo
+  Então eu vejo mais um resultado
