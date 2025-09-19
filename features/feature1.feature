@@ -14,3 +14,4 @@ Cenário 3: Teste 3
   Dado que eu tenho mais um passo
   Quando eu executo mais esse passo
   Então eu vejo mais um resultado
+  Então eu vejo outro resultado
