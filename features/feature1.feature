@@ -15,3 +15,13 @@ Cenário 3: Teste 3
   Quando eu executo mais esse passo
   Então eu vejo mais um resultado
   Então eu vejo outro resultado
+
+Cenário 4: Teste 4
+  Dado que eu tenho mais um passo
+  Quando eu executo mais esse passo
+  Então eu vejo mais um resultado
+
+Cenário 5: Teste 5
+  Dado que eu tenho um passo diferente
+  Quando eu executo esse passo diferente
+  Então eu vejo um resultado diferente
